@@ -1,7 +1,7 @@
 Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Joyce Cristina Fernandes
 ============================================================================================================================================
 
-Staff Quality Assurance Engineer at [Emma Sleep]((https://team.emma-sleep.com))
+Staff Quality Assurance Engineer 
 -------------------------------------
 
 Responsible and passionate for ensuring the quality and reliability of software products through rigorous testing and quality assurance processes. I love designing, implementing, and maintaining testing frameworks, leading testing efforts, mentoring junior QA engineers, and collaborating with development teams to deliver high-quality software.
